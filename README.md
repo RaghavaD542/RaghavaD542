@@ -71,16 +71,16 @@
 </p>
 
 <br> <br>
-<a href="https://www.linkedin.com/in/shreya-botte-a84227208">
+<a href="https://www.linkedin.com/in/raghava-donthoju">
   <img align="left" alt="Raghava's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/shreya-0508">
+<a href="https://github.com/RaghavaD542">
   <img align="left" alt="Raghava's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/shreya_2108/">
+<a href="https://www.instagram.com/raghava_donthoju/">
   <img align="left" alt="Raghava's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/shreya.botte">
+<a href="https://www.facebook.com/raghava.donthoju.14/">
   <img align="left" alt="Raghava's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
