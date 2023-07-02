@@ -50,9 +50,6 @@
 
 
 ### I'm currently learning :open_book:
-- **Competitive Coding**
-    - Dynamic Programming
-    
 - **Web Development**
 <table>
 <tbody>
